@@ -1,0 +1,13 @@
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\bin\Debug\netcoreapp3.1\ContinuedFraction.exe
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\bin\Debug\netcoreapp3.1\ContinuedFraction.deps.json
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\bin\Debug\netcoreapp3.1\ContinuedFraction.runtimeconfig.json
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\bin\Debug\netcoreapp3.1\ContinuedFraction.runtimeconfig.dev.json
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\bin\Debug\netcoreapp3.1\ContinuedFraction.dll
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\bin\Debug\netcoreapp3.1\ContinuedFraction.pdb
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.csprojAssemblyReference.cache
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.AssemblyInfoInputs.cache
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.AssemblyInfo.cs
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.csproj.CoreCompileInputs.cache
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.dll
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.pdb
+C:\Users\yakimov_ma\source\repos\ContinuedFraction\ContinuedFraction\obj\Debug\netcoreapp3.1\ContinuedFraction.genruntimeconfig.cache
